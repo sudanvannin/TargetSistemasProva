@@ -17,7 +17,7 @@ Certifique-se de ter Python instalado em seu sistema.
 Clone este repositório para sua máquina local.
 Navegue até o diretório do repositório no terminal.
 Execute cada programa individualmente usando o comando:
-```python Q1.py
+``` python Q1.py
 ```
 Substitua Q(número aqui).py pelo número da questão que deseja executar.
 
