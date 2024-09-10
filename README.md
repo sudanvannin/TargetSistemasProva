@@ -10,15 +10,15 @@ Estatísticas de faturamento
 Percentual de faturamento por estado
 Inversão de string
 
-Como executar
+## Como executar
 Todos os programas foram escritos em Python. Para executá-los:
 
 Certifique-se de ter Python instalado em seu sistema.
 Clone este repositório para sua máquina local.
 Navegue até o diretório do repositório no terminal.
 Execute cada programa individualmente usando o comando:
-Copypython Q1.py
+```python Q1.py
+```
 Substitua Q(número aqui).py pelo número da questão que deseja executar.
-
 
 Nota: Para o programa de estatísticas de faturamento, certifique-se de ter o arquivo JSON com os dados de faturamento no mesmo diretório do script.
